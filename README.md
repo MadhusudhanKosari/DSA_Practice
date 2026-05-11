@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [2315-count-asterisks](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2315-count-asterisks) |
 ## Stack
 |  |
 | ------- |
