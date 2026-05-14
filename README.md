@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
