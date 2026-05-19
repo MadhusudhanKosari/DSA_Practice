@@ -17,6 +17,7 @@
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
@@ -29,6 +30,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 ## Monotonic Stack
 |  |
@@ -76,6 +79,7 @@
 | [0027-remove-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
