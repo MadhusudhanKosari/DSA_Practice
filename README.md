@@ -14,6 +14,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@
 | [0027-remove-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
