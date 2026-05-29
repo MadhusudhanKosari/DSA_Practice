@@ -25,6 +25,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,5 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
