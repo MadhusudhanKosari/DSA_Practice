@@ -116,6 +116,15 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
