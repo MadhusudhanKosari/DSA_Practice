@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
