@@ -25,6 +25,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
