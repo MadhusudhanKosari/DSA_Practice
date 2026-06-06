@@ -99,6 +99,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -134,6 +135,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
