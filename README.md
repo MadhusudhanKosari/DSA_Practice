@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -65,6 +66,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
 |  |
@@ -100,6 +102,7 @@
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
