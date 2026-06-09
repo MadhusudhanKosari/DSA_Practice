@@ -55,6 +55,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -73,11 +74,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [2315-count-asterisks](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2315-count-asterisks) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -92,6 +95,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
