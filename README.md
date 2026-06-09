@@ -22,6 +22,7 @@
 | [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
