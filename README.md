@@ -31,6 +31,7 @@
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
 | ------- |
