@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
@@ -64,6 +65,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
@@ -151,4 +153,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
