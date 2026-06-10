@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
@@ -112,6 +114,7 @@
 | [0027-remove-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
