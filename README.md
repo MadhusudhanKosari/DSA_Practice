@@ -38,6 +38,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [2315-count-asterisks](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2315-count-asterisks) |
+| [3838-weighted-word-mapping](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
