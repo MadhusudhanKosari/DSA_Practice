@@ -31,6 +31,7 @@
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
@@ -82,6 +83,7 @@
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
