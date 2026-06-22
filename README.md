@@ -104,6 +104,7 @@
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2315-count-asterisks](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2315-count-asterisks) |
 | [3612-process-string-with-special-operations-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3838-weighted-word-mapping) |
@@ -123,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Union-Find
 |  |
