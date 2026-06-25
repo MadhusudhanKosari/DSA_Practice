@@ -43,6 +43,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
@@ -86,6 +87,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | [0053-maximum-subarray](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +185,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -232,4 +237,12 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3898-find-the-degree-of-each-vertex) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
