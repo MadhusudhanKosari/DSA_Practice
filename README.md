@@ -33,6 +33,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
@@ -77,6 +78,7 @@
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3689-maximum-total-subarray-value-i) |
@@ -172,6 +174,7 @@
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
