@@ -112,6 +112,7 @@
 | [0443-string-compression](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2315-count-asterisks](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2315-count-asterisks) |
 | [3612-process-string-with-special-operations-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3838-weighted-word-mapping) |
@@ -133,6 +134,7 @@
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
