@@ -271,4 +271,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
