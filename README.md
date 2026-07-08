@@ -70,6 +70,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
 |  |
@@ -208,6 +209,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Linked List
 |  |
@@ -221,6 +223,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -278,4 +281,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0183-customers-who-never-order) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
