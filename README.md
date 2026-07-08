@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -287,4 +288,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
