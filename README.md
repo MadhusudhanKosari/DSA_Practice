@@ -35,6 +35,7 @@
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -140,6 +141,7 @@
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
@@ -183,6 +185,7 @@
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
