@@ -304,4 +304,8 @@
 | ------- |
 | [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
