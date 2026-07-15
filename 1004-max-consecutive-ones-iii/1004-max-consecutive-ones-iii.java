@@ -8,15 +8,18 @@ class Solution {
         if(nums[right] == 0){
             zeros++;
         }
-        while(zeros > k){
+        if(zeros > k){
             
             if(nums[left] == 0 ){
                 zeros--;
             }
             left++;
         }
-        int len = right - left + 1;
-        maxi = Math.max(maxi,len);
+        if(zeros <= k){
+
+            int len = right - left + 1;
+            maxi = Math.max(maxi,len);
+        }
         right++;
        }
        return maxi;
