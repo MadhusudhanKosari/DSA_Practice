@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1288-remove-covered-intervals) |
@@ -143,6 +144,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
