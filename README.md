@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0056-merge-intervals) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
