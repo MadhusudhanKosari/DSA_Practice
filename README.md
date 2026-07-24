@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0090-subsets-ii) |
@@ -124,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -291,6 +293,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0079-word-search) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Segment Tree
@@ -327,6 +330,7 @@
 | [0039-combination-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -342,4 +346,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
