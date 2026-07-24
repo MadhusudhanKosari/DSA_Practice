@@ -57,6 +57,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -240,6 +241,7 @@
 | [0509-fibonacci-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -338,10 +340,12 @@
 | ------- |
 | [0078-subsets](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0090-subsets-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
