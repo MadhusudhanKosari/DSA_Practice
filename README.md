@@ -57,6 +57,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3689-maximum-total-subarray-value-i) |
@@ -168,6 +169,7 @@
 | [2540-minimum-common-value](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
