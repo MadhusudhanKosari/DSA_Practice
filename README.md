@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0724-find-pivot-index) |
@@ -94,6 +95,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -189,6 +191,7 @@
 | [0189-rotate-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -205,6 +208,7 @@
 | [0217-contains-duplicate](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -356,4 +360,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0079-word-search) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
