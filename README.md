@@ -89,6 +89,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
 |  |
@@ -99,6 +100,7 @@
 | [0410-split-array-largest-sum](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -141,6 +143,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2315-count-asterisks](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/2315-count-asterisks) |
@@ -152,6 +155,7 @@
 | [0020-valid-parentheses](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,4 +372,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/MadhusudhanKosari/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
